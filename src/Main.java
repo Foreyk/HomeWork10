@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         task1();
-        task2();
 
 
     }
@@ -19,12 +18,6 @@ public class Main {
         System.out.println("Данные ФИО сотрудника для заполнения отчета —  " + fullName);
 
 
-
     }
 
-
-    //Задание 2
-    private static void task2() {
-
-    }
 }
